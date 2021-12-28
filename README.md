@@ -1,16 +1,16 @@
-### Hi there 👋
+# People Call Me Dhimas
+Welcome to my Github Repository!
+My Personal Library & Documentation of my Project.
 
-<!--
-**dhimasroby/dhimasroby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**About Me :**
+> Loves Everything About Technology.
+My Experience And Passion On It Was From The Beginning Of Windows Put Their Start Menu Button, But My English Still Worst in The Classroom. 
+I Can Be A Flexible And Professional Man at The Same Time.
+
+> On 2020, Pandemic makes me learn about Augmented Reality specifically for Instagram Effect. Contact me if you want to hire me, or maybe someday you need me.
+
+
